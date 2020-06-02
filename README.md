@@ -3,7 +3,7 @@
 This is a sample repository for the IASGE user experience interviews. The content will be about the science of miso bread.
 
 Miso bread is like sourdough but made with miso paste, yeast, and flour. 
-As [Ben Wolfe (2015)](https://web.archive.org/web/20150630225024/http://luckypeach.com/recipes/miso-sourdough-bread/) published on Lucky Peach:
+In 2015, Ben Wolfe published a recipe and tasty description of miso bread [on Lucky Peach](https://web.archive.org/web/20150630225024/http://luckypeach.com/recipes/miso-sourdough-bread/):
 - _sourness and other funky flavors come from the overnight fermentation with the miso._
 
 - _Unpasteurized, naturally-produced misos have many bacteria and yeasts in them that are similar to the bacteria and yeast found in established sourdough starters._
