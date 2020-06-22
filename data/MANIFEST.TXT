@@ -1,0 +1,4 @@
+CIMMYT-2013-2018_Genotypic_data_readme.txt (text/plain) 1261 bytes.
+CIMMYT2013-2019.pdf (application/pdf) 59777 bytes.
+gids_13-19.txt (text/plain) 691733 bytes.
+KSU_GbS_2019_Germplasm_DOIs_17dec.tab (text/tab-separated-values) 2884399 bytes.
