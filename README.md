@@ -10,7 +10,7 @@ In 2015, Ben Wolfe published a recipe and tasty description of miso bread [on Lu
 
 - _The boost of activity from the miso microbes adds a sour flavor from the lactic acid bacteria and also helps create a very beautiful chewy texture._
 
-- _The great miso flavors transform into something that ends up tasting like a cross between dark chocolate and pumpernickel in the final baked loaf._
+- _The excellent miso flavors transform into something that ends up tasting like a cross between dark chocolate and pumpernickel in the final baked loaf._
 
 - This is an unexpected change
 
