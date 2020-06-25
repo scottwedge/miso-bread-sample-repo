@@ -13,8 +13,4 @@ In 2015, Ben Wolfe published a recipe and tasty description of miso bread [on Lu
 
 - _The funky flavors transform into something that ends up tasting like a cross between dark chocolate and pumpernickel in the final baked loaf._
 
-- This is an unexpected change
-
 This is a no-knead bread, which means the baker (you!) do not have to need the dough between risings. Instead, it just takes "a very long fermentation time instead of needing to form the gluten strands that give the bread its texture" ([Wikipedia](https://en.wikipedia.org/wiki/No-knead_bread)).
-
-These are our changes.
